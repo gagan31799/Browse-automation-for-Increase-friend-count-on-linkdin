@@ -15,7 +15,7 @@ import pprint
 #userid = str(input("Enter email address or number with country code: "))
 userid = "garg31799@gmail.com" 
 #password = getpass.getpass('Enter your password:')
-password="papa@papa"
+password="enter your password"
 chrome_path = "c:\\users\\Garg\\Downloads\\chromedriver_win32\\chromedriver"
 driver = webdriver.Chrome(chrome_path)
 driver.get("https://www.linkedin.com")
