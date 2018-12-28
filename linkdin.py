@@ -18,7 +18,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 #userid = str(input("Enter email address or number with country code: "))
 
 #password = getpass.getpass('Enter your password:')
-userid,password="garg31799@gmail.com","papa@papa"
+userid,password="garg31799@gmail.com","password"
 chrome_path = "c:\\users\\Garg\\Downloads\\chromedriver_win32\\chromedriver"
 driver = webdriver.Chrome(chrome_path)
 driver.get("https://www.linkedin.com")
